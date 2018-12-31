@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "namesite",
-  "alias": ["darnell.io"],
+  "alias": ["https://darnell.io"],
   "builds": [
     {
       "src": "blog/package.json",
