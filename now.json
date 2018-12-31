@@ -1,11 +1,20 @@
 {
   "version": 2,
-  "name": "blog",
+  "name": "namesite",
+  "alias": ["darnell.io"],
   "builds": [
     {
-      "src": "package.json",
+      "src": "blog/package.json",
       "use": "@now/static-build",
       "config": { "distDir": "public" }
+    },
+    {
+      "src": "www/index.html",
+      "use": "@now/static"
     }
+  ],
+  "routes": [
+      { "src": "/blog/(.*)", "dest": "/blog/$1" },
+      { "src": "/(.*)", "dest": "/www/$1" }
   ]
 }
