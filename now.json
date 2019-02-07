@@ -15,6 +15,7 @@
   ],
   "routes": [
       { "src": "/blog/(.*)", "dest": "/blog/$1" },
+      { "src": "/blog", "dest": "/blog" },
       { "src": "/(.*)", "dest": "/www/$1" }
   ]
 }
