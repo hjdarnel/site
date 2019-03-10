@@ -4,19 +4,9 @@
   "alias": ["https://darnell.io"],
   "builds": [
     {
-      "src": "blog/package.json",
-      "use": "@now/static-build",
-      "config": { "distDir": "public" }
-    },
-    {
-      "src": "www/index.html",
+      "src": "index.html",
       "use": "@now/static"
     }
-  ],
-  "routes": [
-      { "src": "/blog/(.*)", "dest": "/blog/$1" },
-      { "src": "/blog", "dest": "/blog" },
-      { "src": "/(.*)", "dest": "/www/$1" }
   ],
   "github": {
     "silent": true
