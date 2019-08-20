@@ -2,9 +2,16 @@
   "version": 2,
   "name": "namesite",
   "alias": ["https://darnell.io"],
+  "routes": [
+    { "src": "/resume", "dest": "/henry_darnell_resume.pdf" }
+  ],
   "builds": [
     {
       "src": "index.html",
+      "use": "@now/static"
+    },
+    {
+      "src": "henry_darnell_resume.pdf",
       "use": "@now/static"
     }
   ],
