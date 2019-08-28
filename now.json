@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "namesite",
-  "alias": ["https://darnell.io"],
   "routes": [
     { "src": "/resume", "dest": "/henry_darnell_resume.pdf" }
   ],
