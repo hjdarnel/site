@@ -1,0 +1,53 @@
+https://keybase.io/hjdarnel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://darnell.io
+  * I am hjdarnel (https://keybase.io/hjdarnel) on keybase.
+  * I have a public key ASCPSkOUA6g39lcQ24opFWSPaDNfBenMd37nlFyMjFefEAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120983253e75523fc2313955ba4a4dc4a35e969eb862acdc621c4a1df78c5ea79890a",
+      "host": "keybase.io",
+      "kid": "01208f4a439403a837f65710db8a2915648f68335f05e9cc777ee7945c8c8c579f100a",
+      "uid": "9c15cec5ddfee4f3401b2fc8ff374019",
+      "username": "hjdarnel"
+    },
+    "merkle_root": {
+      "ctime": 1573744773,
+      "hash": "c39172d2ebccee8afc22d06e40c449b3e94fdad1fdee1442f3240fa7d2e378558b07d4a2f8d3d3115c9d7a333484a4fb91220660678bf011a947e3a20f91a2c7",
+      "hash_meta": "a4d464d0c578b3348374375bf044226c6b367a65422e4fcdea13a02936279d84",
+      "seqno": 9532314
+    },
+    "service": {
+      "entropy": "ZlCky93BHSXJWVarPQS2jecb",
+      "hostname": "darnell.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573744778,
+  "expire_in": 504576000,
+  "prev": "9da61f89258acd8b2b76b4f0451a51e4a0dbad1e1e40beb8e26fe634c73bf03f",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgj0pDlAOoN/ZXENuKKRVkj2gzXwXpzHd+55RcjIxXnxAKp3BheWxvYWTESpcCGsQgnaYfiSWKzYsrdrTwRRpR5KDbrR4eQL644m/mNMc78D/EIBbdZ4Qng4JtnnxWh9rBaRow1ipshy0a3Hgp2xtsz4DjAgHCo3NpZ8RAVcbkJqPFKLVE8QjXkDnIBrUkdGf738wHVrPL07qzpKJoUKtxjsm7bKchG8h2POfCXPJQUvKxOnNlRFIOZsyQAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHdihknZ2TmIpETYwrQvuVgoxLXaMWQ3W1EEtXuM9piZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hjdarnel
