@@ -1,0 +1,13 @@
+{
+  "name": "site",
+  "redirects": [
+    {
+      "source": "/resume",
+      "destination": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1hp39LJl5IWflwsbwygfOCcRQ2ZpijWSAe4y0lM8YjwM/export?format=pdf",
+      "permanent": false
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}
