@@ -2,7 +2,7 @@
   "version": 2,
   "name": "site",
   "routes": [
-    { "src": "/resume", "dest": "/henry_darnell_resume.pdf" }
+    { "src": "/resume", "dest": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1hp39LJl5IWflwsbwygfOCcRQ2ZpijWSAe4y0lM8YjwM/export?format=pdf" }
   ],
   "builds": [
     {
